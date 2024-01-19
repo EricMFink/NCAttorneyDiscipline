@@ -1,0 +1,53 @@
+Search Results 49 Results (up to 250 records)
+
+| Bar ID | Name | Type | Status | Location | Judicial District |
+| --- | --- | --- | --- | --- | --- |
+| 12841 | [Mr. Robert W. Allen](https://portal.ncbar.gov/Verification/viewer.aspx?ID=12841) | Attorney | Active | Charlotte, NC | 26 - Mecklenburg |
+| 37990 | [Mr. Jonathan Wellons Anderson](https://portal.ncbar.gov/Verification/viewer.aspx?ID=37990) | Attorney | Active | Raleigh, NC | 10 - Wake |
+| 8171 | [Mr. David A. Bennington](https://portal.ncbar.gov/Verification/viewer.aspx?ID=8171) | Attorney | Active | Chapel Hill, NC | 18 - Chatham, Orange |
+| 26462 | [Mr. Steven E Black](https://portal.ncbar.gov/Verification/viewer.aspx?ID=26462) | Attorney | Active | Greensboro, NC | 26 - Mecklenburg |
+| 15785 | [Mr. William G. Burgin, III](https://portal.ncbar.gov/Verification/viewer.aspx?ID=15785) | Attorney | Active | Greensboro, NC | 24 - Guilford |
+| 10826 | [Mr. Alan G. Carpenter](https://portal.ncbar.gov/Verification/viewer.aspx?ID=10826) | Attorney | Active | Statesville, NC | 32 - Alexander, Iredell |
+| 16016 | [Kimberly R. Coward](https://portal.ncbar.gov/Verification/viewer.aspx?ID=16016) | Attorney | Active | Cashiers, NC | 43 - Cherokee, Clay, Graham, Haywood, Jackson, Macon, Swain |
+| 42699 | [Mrs. Melissa Bowers Dixon](https://portal.ncbar.gov/Verification/viewer.aspx?ID=42699) | Attorney | Active | Roanoke Rapids, NC | 7 - Bertie, Halifax, Hertford, Northampton |
+| 19913 | [Mr. Douglas B. Elliott](https://portal.ncbar.gov/Verification/viewer.aspx?ID=19913) | Attorney | Active | Thomasville, NC | 33 - Davidson, Davie |
+| 11087 | [Ms. Nancy Short Ferguson](https://portal.ncbar.gov/Verification/viewer.aspx?ID=11087) | Attorney | Active | Greensboro, NC |  |
+| 16627 | [Mr. William A. Foley, III](https://portal.ncbar.gov/Verification/viewer.aspx?ID=16627) | Attorney | Active | Chapel Hill, NC | 18 - Chatham, Orange |
+| 25418 | [Ms. Kirsten Ellefson Foyles](https://portal.ncbar.gov/Verification/viewer.aspx?ID=25418) | Attorney | Active | Southern Pines, NC | 29 - Moore, Hoke |
+| 26248 | [Mr. Richard A. Galt](https://portal.ncbar.gov/Verification/viewer.aspx?ID=26248) | Attorney | Active | Fayetteville, NC | 14 - Cumberland |
+| 12973 | [Ms. Nancy M. Guyton](https://portal.ncbar.gov/Verification/viewer.aspx?ID=12973) | Attorney | Active | Wilmington, NC | 6 - New Hanover, Pender |
+| 9844 | [Mr. John M. Harris](https://portal.ncbar.gov/Verification/viewer.aspx?ID=9844) | Attorney | Active | Morehead City, NC |  |
+| 17875 | [Mr. Joseph C. Hearne, II](https://portal.ncbar.gov/Verification/viewer.aspx?ID=17875) | Attorney | Active | Wilmington, NC | 6 - New Hanover, Pender |
+| 12435 | [Mr. Nelson Kyle Hicks](https://portal.ncbar.gov/Verification/viewer.aspx?ID=12435) | Attorney | Active | Oxford, NC | 11 - Franklin, Granville, Person, Vance, Warren |
+| 33980 | [Mr. James Earl Hill, III](https://portal.ncbar.gov/Verification/viewer.aspx?ID=33980) | Attorney | Active | Blythewood, SC |  |
+| 13543 | [Mr. Robert B. Hobbs, Jr.](https://portal.ncbar.gov/Verification/viewer.aspx?ID=13543) | Attorney | Active | Nags Head, NC | 1 - Camden, Chowan, Currituck, Dare, Gates, Pasquotank, Perquimans |
+| 12999 | [Mr. Thomas Hatcher Johnson, Jr.](https://portal.ncbar.gov/Verification/viewer.aspx?ID=12999) | Attorney | Active | Raleigh, NC | 10 - Wake |
+| 25596 | [Mr. Daniel Kevin Joyce](https://portal.ncbar.gov/Verification/viewer.aspx?ID=25596) | Attorney | Active | Gastonia, NC | 38 - Gaston |
+| 21146 | [Mr. Joseph J. Kalo, IV](https://portal.ncbar.gov/Verification/viewer.aspx?ID=21146) | Attorney | Active | Burlington, NC | 17 - Alamance |
+| 9306 | [Mr. John W. King, Jr.](https://portal.ncbar.gov/Verification/viewer.aspx?ID=9306) | Attorney | Active | New Bern, NC | 4 - Carteret, Craven, Pamlico |
+| 9315 | [Mr. Gregory L. Kunkleman](https://portal.ncbar.gov/Verification/viewer.aspx?ID=9315) | Attorney | Active | Charlotte, NC | 26 - Mecklenburg |
+| 2834 | [Mr. Douglas P. MacMillan](https://portal.ncbar.gov/Verification/viewer.aspx?ID=2834) | Attorney | Active | Charlotte, NC | 26 - Mecklenburg |
+| 2841 | [Mr. Joseph G. Maddrey](https://portal.ncbar.gov/Verification/viewer.aspx?ID=2841) | Attorney | Active | Eden, NC |  |
+| 18307 | [Mr. William E. Manning, Jr.](https://portal.ncbar.gov/Verification/viewer.aspx?ID=18307) | Attorney | Active | Chapel Hill, NC | 18 - Chatham, Orange |
+| 38335 | [Ms. Laura Louise Martin](https://portal.ncbar.gov/Verification/viewer.aspx?ID=38335) | Attorney | Active | Raleigh, NC | 10 - Wake |
+| 24456 | [Mr. Deleon Parker, Jr.](https://portal.ncbar.gov/Verification/viewer.aspx?ID=24456) | Attorney | Active | Rocky Mount, NC | 8 - Edgecombe, Nash, Wilson |
+| 31714 | [Mr. Robbie Brice Parker](https://portal.ncbar.gov/Verification/viewer.aspx?ID=31714) | Attorney | Active | Wilmington, NC | 6 - New Hanover, Pender |
+| 14183 | [Mr. James K. Pendergrass, Jr.](https://portal.ncbar.gov/Verification/viewer.aspx?ID=14183) | Attorney | Active | Raleigh, NC | 10 - Wake |
+| 34149 | [Mr. Randall L. Perry](https://portal.ncbar.gov/Verification/viewer.aspx?ID=34149) | Attorney | Active | Winston Salem, NC | 31 - Forsyth |
+| 39989 | [Ms. Winona Ann Pilkington](https://portal.ncbar.gov/Verification/viewer.aspx?ID=39989) | Attorney | Active | Matthews, NC | 26 - Mecklenburg |
+| 22278 | [Mr. Leonard H. Reaves](https://portal.ncbar.gov/Verification/viewer.aspx?ID=22278) | Attorney | Active | Fayetteville, NC | 14 - Cumberland |
+| 7279 | [Mr. Charles A. Reinhardt, Jr.](https://portal.ncbar.gov/Verification/viewer.aspx?ID=7279) | Attorney | Active | Durham, NC | 16 - Durham |
+| 20094 | [Mr. Bernard Richards, Jr.](https://portal.ncbar.gov/Verification/viewer.aspx?ID=20094) | Attorney | Active | Raleigh, NC | 10 - Wake |
+| 25591 | [Julian P. Robb](https://portal.ncbar.gov/Verification/viewer.aspx?ID=25591) | Attorney | Active | Winston Salem, NC | 31 - Forsyth |
+| 23561 | [Ms. Jennifer D. Scott](https://portal.ncbar.gov/Verification/viewer.aspx?ID=23561) | Attorney | Active | Pittsboro, NC | 18 - Chatham, Orange |
+| 10032 | [Mr. Philip E. Searcy](https://portal.ncbar.gov/Verification/viewer.aspx?ID=10032) | Attorney | Active | Winston Salem, NC |  |
+| 48080 | [Mr. Kyle Abraham Smalling](https://portal.ncbar.gov/Verification/viewer.aspx?ID=48080) | Attorney | Active | Wake Forest, NC | 10 - Wake |
+| 25592 | [Ms. Carolyn Clark Snipes](https://portal.ncbar.gov/Verification/viewer.aspx?ID=25592) | Attorney | Active | Asheville, NC | 40 - Buncombe |
+| 6861 | [Mr. Robert A. Spence, Jr.](https://portal.ncbar.gov/Verification/viewer.aspx?ID=6861) | Attorney | Active | Smithfield, NC | 13 - Johnston |
+| 28097 | [Mr. Dustin Neely Stacy](https://portal.ncbar.gov/Verification/viewer.aspx?ID=28097) | Attorney | Active | Boone, NC | 35 - Avery, Madison, Mitchell, Watauga, Yancey |
+| 14175 | [Mr. Charles Thomas Steele, Jr.](https://portal.ncbar.gov/Verification/viewer.aspx?ID=14175) | Attorney | Active | Burlington, NC | 17 - Alamance |
+| 12572 | [Ms. Terry M. Taylor](https://portal.ncbar.gov/Verification/viewer.aspx?ID=12572) | Attorney | Active | Hickory, NC | 36 - Burke, Caldwell, Catawba |
+| 5862 | [Mr. James W. Thompson, III](https://portal.ncbar.gov/Verification/viewer.aspx?ID=5862) | Attorney | Active | Beaufort, NC | 4 - Carteret, Craven, Pamlico |
+| 22385 | [Mr. James W. Williams, III](https://portal.ncbar.gov/Verification/viewer.aspx?ID=22385) | Attorney | Active | Wilmington, NC | 6 - New Hanover, Pender |
+| 47198 | [Mr. Michael Glenn Wilson, II](https://portal.ncbar.gov/Verification/viewer.aspx?ID=47198) | Attorney | Active | Hickory, NC | 36 - Burke, Caldwell, Catawba |
+| 27694 | [Mrs. Amy R. Kandies Zeko](https://portal.ncbar.gov/Verification/viewer.aspx?ID=27694) | Attorney | Active | Wilmington, NC | 6 - New Hanover, Pender |
